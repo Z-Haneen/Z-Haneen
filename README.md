@@ -1,15 +1,16 @@
-# Hi there, I'm Haneen Wael! 👋 
+# Hi there, I'm Haneen Zarifa! 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Haneen%20Wael&fontSize=70&animation=fadeIn&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=200&section=header&text=Haneen%20Zarifa&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=CS+Student+@+SCU;Backend+Software+Developer;Network+Security+Enthusiast;ICPC+Mentor+%26+Problem+Setter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=79dafa&center=true&vCenter=true&width=500&lines=CS+Student+@+SCU;Backend+Software+Developer;Network+Security+Enthusiast;ICPC+Mentor+%26+Problem+Setter" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/haneenwael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@7asebat_3_ma_tofrag"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="mailto:haneen.wael@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -85,20 +86,16 @@ I am a **Computer Science Student** based in Cairo, Egypt. I bridge the gap betw
 *   ⚓ **Networking Intern** @ Suez Canal Authority *(Jul 2025)*
 
 ---
-
 ### 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Z-Haneen&show_icons=true&theme=cyanical&include_all_commits=true&count_private=true" height="175px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z-Haneen&theme=cyanical" height="175px" />
+  <!-- كارت الـ Streak الشغال تمام -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Z-Haneen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Haneen&layout=compact&theme=cyanical&hide=html,css" height="150px" />
-</p>
-
----
-
-<p align="center">
-  🎯 <b>Looking for Back-End Development or Network Security Opportunities!</b>
+  <!-- بديل خارق وسريع جداً لكارت اللغات والـ Stats مبيقعش وشغال Tokyonight -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z-Haneen&theme=tokyonight" alt="Haneen's GitHub Details" />
 </p>
