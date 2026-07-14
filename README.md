@@ -8,21 +8,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=79dafa&center=true&vCenter=true&width=500&lines=CS+Student+@+SCU;Backend+Software+Developer;Network+Security+Enthusiast;ICPC+Mentor+%26+Problem+Setter" alt="Typing SVG" />
 </p>
 
+<!-- الأزرار والروابط بعد إضافة كود فورسز والبورتفوليو الجديد -->
 <p align="center">
+  <a href="https://z-haneen.github.io/haneen-portfolio/"><img src="https://img.shields.io/badge/Portfolio-%230A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/haneenwael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/hnz01"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@7asebat_3_ma_tofrag"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="mailto:haneen.wael@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
+## 💫 About Me
 
-### 💫 About Me
+<img src="https://raw.githubusercontent.com/Z-Haneen/Z-Haneen/main/7asebat_3_ma_tofrag.png" align="right" width="160" style="margin-left: 20px; margin-bottom: 5px;" alt="Haneen Zarifa TikTok Avatar" />
 
-I am a **Computer Science Student** based in Cairo, Egypt. I bridge the gap between building scalable backend services and configuring secure enterprise network infrastructures. 
+I am a **Computer Science Student** based in Cairo, Egypt. I bridge the gap between building scalable backend services and configuring secure enterprise network infrastructures.
 
 *   💡 **Current Focus:** Advanced Backend Architectures & Enterprise Network Security.
 *   👥 **Community:** **Mentor & Problem Setter** at ICPC SCU and **Head of IT** at MishHackers SCU.
 *   🌐 **Languages:** Arabic (Native), English (Intermediate), German (Beginner), French (Beginner).
+
+<p align="right"><sub style="color: #5a5f73;">© 7asebat_3_ma_tofrag</sub></p>
+
+<br clear="right"/>
 
 ---
 
@@ -86,16 +94,21 @@ I am a **Computer Science Student** based in Cairo, Egypt. I bridge the gap betw
 *   ⚓ **Networking Intern** @ Suez Canal Authority *(Jul 2025)*
 
 ---
+
 ### 📊 My GitHub Journey
 
 <p align="center">
-  <!-- كارت الـ Streak الشغال تمام -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Z-Haneen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <!-- بديل خارق وسريع جداً لكارت اللغات والـ Stats مبيقعش وشغال Tokyonight -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z-Haneen&theme=tokyonight" alt="Haneen's GitHub Details" />
+</p>
+
+---
+
+<p align="center">
+  🎯 <b>Looking for Back-End Development or Network Security Opportunities!</b>
 </p>
